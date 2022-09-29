@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
-    Oi Tudo bem? Eu sou 
+    Olá! Eu sou 
     <a href="https://www.linkedin.com/in/ronald-liboni/">Ronald Liboni 😃️</a>
   </h1>
   
