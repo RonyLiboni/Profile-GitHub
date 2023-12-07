@@ -1,11 +1,23 @@
 <div>
   <h1 align="center">
-    Olá! Eu sou 
-    <a href="https://www.linkedin.com/in/ronald-liboni/">Ronald Liboni 😃️</a>
+    Hi There! I am 
+    <a href="https://www.linkedin.com/in/ronald-liboni/">Ronald Liboni </a>
   </h1>
   
   <p>
-    Sou Desenvolvedor Back End e amo aprender e sentir-me desafiado e isso é um dos motivos que me fizeram decidir vir para programação. Estou me aprofundando na linguagem Java, SQL e Framework Spring. Atualmente estou cursando ciencias da computação, mas já sou formado em Psicologia e também tenho Pós em Gestão, Liderança e Inovação. Meus projetos de estudo que mais gosto estão fixados abaixo! Eles contém boa parte do que sei fazer hoje em dia!
+    I've been programming for almost 3 years, most of the time as backend using Java/Spring and C#/.Net, but in the last 1,5 years, I enrolled in fullstack roles using Javascript, Typescript, JQuery, Angular, React. 
+I've already worked with Monoliths, Microsservices, MVC, Event Oriented and CQRS architectures. 
+In my daily routine I join meetings, run tests, fix bugs and develop new features. 
+
+Below you will find some of the stacks i already worked with:
+
+- **Programming languages:** Java, C#, Typescript and Javascript
+- **Frameworks:** Spring, .Net, Angular and React
+- **Relational databases:** SqlServer, MySql and Oracle. 
+- **Non Relational databases:** MongoDb
+- **Async messaging:** RabbitMQ and ActiveMQ
+- **Infrastructure:** Git, Docker, Azure Devops, AWS (s3)
+- **Agile methods:** Scrum, Kanban
   </p>
   
 </div>
@@ -16,18 +28,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyLiboni&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
-<div align="center" valign="top"><br>
-
-  <img align="center" alt="Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Spring Framework" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="MySql" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Oracle" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="Docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Google Cloud Platform" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
-  <img align="center" alt="MongoDB" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  
-</div><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ronald-liboni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
