@@ -5,17 +5,19 @@
   </h1>
   
   <p>
-    I've been programming for almost 3 years, most of the time as backend using Java/Spring and C#/.Net, but in the last 1,5 years, I enrolled in fullstack roles using Javascript, Typescript, JQuery, Angular, React. 
-I've already worked with Monoliths, Microsservices, MVC, Event Oriented and CQRS architectures. 
-In my daily routine I join meetings, run tests, fix bugs and develop new features. 
+    I've been programming for almost 3 years, most of the time as backend using Java/Spring and C#/.Net, but in the last 1,5 years, I enrolled in fullstack roles using Javascript, Typescript, JQuery, Angular, React. In my daily routine I join meetings, run tests, fix bugs and develop new features.
 
-Below you will find some of the stacks i already worked with:
+Bellow you will read some topics of what i already worked with
 
-- **Programming languages:** Java, C#, Typescript and Javascript
+- **Languages:** Java, C#, Typescript and Javascript
+- **Architectures:** MVC, CQRS, Monolithic, Microservices
+- **Good practices:** Clean Code, SOLID
 - **Frameworks:** Spring, .Net, Angular and React
 - **Relational databases:** SqlServer, MySql and Oracle. 
 - **Non Relational databases:** MongoDb
-- **Async messaging:** RabbitMQ and ActiveMQ
+- **Unit Testing:** JUnit, Mockito, Xunit, Substitute 
+- **ORMs:** Hibernate, Spring Data JPA, Entity Framework, DapperMessaging: RabbitMQ and ActiveMQ
+- **Messaging:** RabbitMQ and ActiveMQ
 - **Infrastructure:** Git, Docker, Azure Devops, AWS (s3)
 - **Agile methods:** Scrum, Kanban
   </p>
