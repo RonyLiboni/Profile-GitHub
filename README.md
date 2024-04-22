@@ -16,7 +16,7 @@ Bellow you will read some topics of what i already worked with
 - **Relational databases:** SqlServer, MySql and Oracle. 
 - **Non Relational databases:** MongoDb
 - **Unit Testing:** JUnit, Mockito, Xunit, Substitute 
-- **ORMs:** Hibernate, Spring Data JPA, Entity Framework, DapperMessaging: RabbitMQ and ActiveMQ
+- **ORMs:** Hibernate, Spring Data JPA, Entity Framework, Dapper
 - **Messaging:** RabbitMQ and ActiveMQ
 - **Infrastructure:** Git, Docker, Azure Devops, AWS (s3)
 - **Agile methods:** Scrum, Kanban
