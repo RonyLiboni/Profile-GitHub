@@ -5,21 +5,7 @@
   </h1>
   
   <p>
-    I've been programming for almost 3 years, most of the time as backend using Java/Spring and C#/.Net, but in the last 1,5 years, I enrolled in fullstack roles using Javascript, Typescript, JQuery, Angular, React. In my daily routine I join meetings, run tests, fix bugs and develop new features.
-
-Bellow you will read some topics of what i already worked with
-
-- **Languages:** Java, C#, Typescript and Javascript
-- **Architectures:** MVC, CQRS, Monolithic, Microservices
-- **Good practices:** Clean Code, SOLID
-- **Frameworks:** Spring, .Net, Angular and React
-- **Relational databases:** SqlServer, MySql and Oracle. 
-- **Non Relational databases:** MongoDb
-- **Unit Testing:** JUnit, Mockito, Xunit, Substitute 
-- **ORMs:** Hibernate, Spring Data JPA, Entity Framework, Dapper
-- **Messaging:** RabbitMQ and ActiveMQ
-- **Infrastructure:** Git, Docker, Azure Devops, AWS (s3)
-- **Agile methods:** Scrum, Kanban
+   I have nearly four years of programming experience, primarily focused on backend development using Java (Spring) and C# (.NET). Additionally, I have taken on full-stack roles involving JavaScript, TypeScript, jQuery, Angular, and React. My professional background includes working with clients in diverse industries such as e-commerce, fleet rental, and insurance.
   </p>
   
 </div>
